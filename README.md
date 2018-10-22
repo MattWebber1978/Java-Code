@@ -1,2 +1,2 @@
 # Java-Code
-basic java code that I've learned from Code Academy
+Java code that I've learned
