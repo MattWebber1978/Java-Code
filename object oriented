@@ -6,6 +6,8 @@ class Coffee {
 	
 	public void addSugar(int cubes) {
 
+//The void keyword indicates to the method that no value is returned after calling that method //
+
 		System.out.println("You added " + cubes + " sugar cubes.");
 
 	}
