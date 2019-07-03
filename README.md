@@ -1,2 +1,2 @@
 # Java projects
-Java code that I've learned
+Java projects and code samples
